@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f057532a2c7c2e9",
+            "id": "164c684a44f6d0df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/Obsidian Basics.md",
+                "file": "4 - Full Notes/Rugby Encoder.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Basics"
-            }
-          },
-          {
-            "id": "43400720c4cfb90d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - Full Notes/Habit Plan 2024 - 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Habit Plan 2024 - 10"
+              "title": "Rugby Encoder"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Full Notes/Habit Plan 2024 - 10.md",
+                "file": "4 - Full Notes/Rugby Encoder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Habit Plan 2024 - 10"
+              "title": "Backlinks for Rugby Encoder"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Full Notes/Habit Plan 2024 - 10.md",
+                "file": "4 - Full Notes/Rugby Encoder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Habit Plan 2024 - 10"
+              "title": "Outgoing links from Rugby Encoder"
             }
           },
           {
@@ -156,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Full Notes/Habit Plan 2024 - 10.md"
+                "file": "4 - Full Notes/Rugby Encoder.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Habit Plan 2024 - 10"
+              "title": "Outline of Rugby Encoder"
             }
           }
         ]
@@ -181,10 +165,14 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "43400720c4cfb90d",
+  "active": "164c684a44f6d0df",
   "lastOpenFiles": [
-    "2 - Tags/HabitPlan.md",
+    "2 - Tags/DeepLearning.md",
+    "4 - Full Notes/Rugby Encoder.md",
+    "2 - Tags/CodingProject.md",
+    "2 - Tags/Rugby.md",
     "4 - Full Notes/Habit Plan 2024 - 10.md",
+    "2 - Tags/HabitPlan.md",
     "4 - Full Notes/Habit Scorecard 2024-10-23.md",
     "2 - Tags/Habits.md",
     "5 - Template/Habit Scorecard.md",
