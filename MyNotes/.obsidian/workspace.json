@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5417d9e376d4445b",
+        "id": "8e0cab4e4ca814d4",
         "type": "tabs",
         "children": [
           {
-            "id": "dc5a5b821516385e",
+            "id": "4c60df931976dbee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4 - Full Notes/How to Break Addiction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to Break Addiction"
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4 - Full Notes/How to Break Addiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for How to Break Addiction"
             }
           },
           {
@@ -108,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "4 - Full Notes/How to Break Addiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from How to Break Addiction"
             }
           },
           {
@@ -133,9 +140,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "4 - Full Notes/How to Break Addiction.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of How to Break Addiction"
             }
           }
         ]
@@ -157,8 +166,12 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "dc5a5b821516385e",
+  "active": "4c60df931976dbee",
   "lastOpenFiles": [
+    "2 - Tags/Dopamine.md",
+    "4 - Full Notes/How to Break Addiction.md",
+    "2 - Tags/Addiction.md",
+    "2 - Tags/Productivity.md",
     "4 - Full Notes/Rugby Encoder.md",
     "2 - Tags/DeepLearning.md",
     "2 - Tags/CodingProject.md",
