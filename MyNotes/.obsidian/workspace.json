@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e563c2dcd5c9e7c",
+        "id": "5417d9e376d4445b",
         "type": "tabs",
         "children": [
           {
-            "id": "164c684a44f6d0df",
+            "id": "dc5a5b821516385e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c37ee1d8ce091091",
@@ -156,7 +157,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "164c684a44f6d0df",
+  "active": "dc5a5b821516385e",
   "lastOpenFiles": [
     "4 - Full Notes/Rugby Encoder.md",
     "2 - Tags/DeepLearning.md",
