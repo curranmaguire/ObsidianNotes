@@ -14,20 +14,14 @@ Link:
 
 ### Set Piece
 ##### Line-out
-
+- GIMP with mirroring the spread and then aggressively giving them the front twin towers at the B and C
+- outfield more man on but still prioritising B and C
+- **The Gimp is lazy moving late and staying spread in-between he joins the lift quite late**
+- Front man is always moving then checking he seems to be going between hooker and jumper 32:07
+- 
 ##### Scrum
 
 
 
 #### Summary
 
-
-
-
-
-#### Minutes
-- big hit from Eben bc he tracks back but when ball goes out from the kick he flys at ten
-- pen kick bc illegal roll on Bongie
-- KO taken by vermulen
-- kicked back and taken by winger with Siya Behind
-- 

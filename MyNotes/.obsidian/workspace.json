@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Full Notes/Rugby Game - RWC Final (SA).md",
+                "file": "4 - Full Notes/constantin the bruce.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rugby Game - RWC Final (SA)"
+              "title": "constantin the bruce"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Full Notes/Rugby Game - RWC Final (SA).md",
+                "file": "4 - Full Notes/constantin the bruce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rugby Game - RWC Final (SA)"
+              "title": "Backlinks for constantin the bruce"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - Full Notes/Rugby Game - RWC Final (SA).md",
+                "file": "4 - Full Notes/constantin the bruce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rugby Game - RWC Final (SA)"
+              "title": "Outgoing links from constantin the bruce"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - Full Notes/Rugby Game - RWC Final (SA).md"
+                "file": "4 - Full Notes/constantin the bruce.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rugby Game - RWC Final (SA)"
+              "title": "Outline of constantin the bruce"
             }
           }
         ]
@@ -167,10 +167,12 @@
   },
   "active": "55434366eb075c69",
   "lastOpenFiles": [
-    "5 - Template/Rugby Analysis.md",
-    "4 - Full Notes/Rugby Game - RWC Final (SA).md",
-    "2 - Tags/GameReview.md",
     "5 - Template/Full Note.md",
+    "4 - Full Notes/constantin the bruce.md",
+    "4 - Full Notes/Rugby Game - RWC Final (SA).md",
+    "2 - Tags/Rugby.md",
+    "5 - Template/Rugby Analysis.md",
+    "2 - Tags/GameReview.md",
     "4 - Full Notes/Optimising Learning and Research.md",
     "2 - Tags/HubermanLab.md",
     "2 - Tags/Learning.md",
@@ -183,7 +185,6 @@
     "4 - Full Notes/Rugby Encoder.md",
     "2 - Tags/DeepLearning.md",
     "2 - Tags/CodingProject.md",
-    "2 - Tags/Rugby.md",
     "4 - Full Notes/Habit Plan 2024 - 10.md",
     "2 - Tags/HabitPlan.md",
     "4 - Full Notes/Habit Scorecard 2024-10-23.md",

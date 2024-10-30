@@ -19,9 +19,3 @@ Link:
 
 
 #### Summary
-
-
-
-
-
-#### Minutes
