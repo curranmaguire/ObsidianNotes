@@ -10,8 +10,15 @@ Tags: [[Learning]] [[HubermanLab]]
 'Offsetting Forgetting' - instead of thinking of learning as a way to absorb information, Huberman discusses it as a way to prevent forgetting of information and focussing on ways to top up knowledge to prevent forgetting
 
 When Reading the related article the top study habits can be broken down into **4 categories:**
-- Time Management
-- 3-4 hours of individual 
+
+Time Management:
+- Remove interruptions such as phones and people
+- Determine long term and short term goals to divide the workload and determine a priority to study
+
+ 3-4 hours of individual daily study at all times with no bursts in productivity
+- they learn from multiple sources
+- They Teach the topics they have learnt
+- They Maintain Motivation
 
 
 
