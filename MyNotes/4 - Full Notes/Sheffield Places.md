@@ -13,14 +13,19 @@ Tags: [[Sheffield]] [[Dates]]
 - Domo - italian food in kelham island looks good but V spenny at ~£30 for mains
 - Bakers Yard - bakery in kelham which is a bit pricey
 - The Grind Cafe - Kelham Cafe that has good reviews 
+- Proove Pizza - Beast pizza place with 50% off 
 #### Drinks
 - Church Temple of Fun - Near Cutlery works looks v nice 
 - Isabellas Bar and Restaurant - Kelham Bar that is warm and looks nice
 - bar kelham - nice spot good reviews 
 - Salt - bar in kelham that looks nice
+- Dirty Mirror - Kelham
 - 
 #### Activities
-
+- sheffield botanical gardens
+- Winter Gardens
+- Shopping 
+- 
 
 
 
