@@ -8,7 +8,8 @@ Link: https://www.discoveryplus.com/gb/video/sport/tnt-sports-uhd/england-austra
 
 
 ### Defense
-- on pick and goes they roll under the man on the inside to stop the place down
+- on pick and goes the inside tackler rolls under the attacker to stop the place down
+- genge accelerates into the tackle on a Bullet
 - 
 
 
