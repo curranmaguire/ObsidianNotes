@@ -15,4 +15,6 @@ if we do 8.5kg of meat which is £60 a week we can then cook 2kg of meat 4 times
 
 we can then follow doobydoobap and make an oven sauce base for each item that can be a tomato base that can be frozen or just stored as it takes an hour to make. 
 
-following this we can create a base meal prep list that we get on 
+following this we can create a base meal prep list that we get each week and then use this as a kind of stocks and meats list for further items. 
+
+for the shopping list we need 180g per meal per person so this becomes 5kg a week but with potatoes involved we have to use ~500g per person per meal so be weary 
