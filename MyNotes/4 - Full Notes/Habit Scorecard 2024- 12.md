@@ -42,3 +42,7 @@ Tags: [[HabitScorecard]]
 	- leave my bottle on the side when I go to bed
 	- drink two bottles at least a day
 - Thirdly: go and do some work straight after breakfast
+
+
+# GOALS
+- 

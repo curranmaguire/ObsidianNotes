@@ -6,3 +6,11 @@ Tags: [[HabitScorecard]]
 | Habit | Score |
 | ----- | ----- |
 |       |       |
+
+## Flaws
+
+
+## Adaptation
+
+
+# GOALS
