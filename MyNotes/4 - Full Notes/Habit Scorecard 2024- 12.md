@@ -42,7 +42,15 @@ Tags: [[HabitScorecard]]
 	- leave my bottle on the side when I go to bed
 	- drink two bottles at least a day
 - Thirdly: go and do some work straight after breakfast
+- Fourthly: Stretch before bed
 
 
 # GOALS
-- 
+- SLEEP
+	- phone not allowed in my room
+- DISCIPLINE
+	- Going Straight to do work after I have woken up and finished morning routine
+- HONESTY
+	- trying to be honest with myself and others. This has slipped the past month
+- HEALTH
+	- Stretching before bed
