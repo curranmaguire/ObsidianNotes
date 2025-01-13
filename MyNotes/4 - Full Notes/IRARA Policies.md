@@ -5,7 +5,7 @@ Status:
 
 Tags: [[IRARA]]
 
-## IRARA Policies work
+## IRARA Policies 
 
 What are standard business policies for AUS
 - BYOD (bring your own device) outlining rules responsibilites and security measures associated with employees using their personal devices. 
