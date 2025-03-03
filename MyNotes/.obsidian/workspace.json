@@ -11,10 +11,24 @@
             "id": "ce35164bcc50689d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - Indexes/Atomic Habits.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Atomic Habits"
             }
           }
         ]
@@ -36,7 +50,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,7 +178,10 @@
   },
   "active": "ce35164bcc50689d",
   "lastOpenFiles": [
+    "2 - Tags/Habits.md",
+    "4 - Full Notes/habit scorecard 2025-02.md",
     "4 - Full Notes/habit scorecard 2025-01.md",
+    "4 - Full Notes/Sheffield Places.md",
     "4 - Full Notes/Christmas Gift Ideas.md",
     "4 - Full Notes/IRARA Notes.md",
     "4 - Full Notes/IRARA Policies.md",
@@ -186,9 +204,6 @@
     "4 - Full Notes/Rugby Game - RWC Final (SA).md",
     "2 - Tags/Mentality.md",
     "4 - Full Notes/How to change you identity.md",
-    "2 - Tags/Self Improvement.md",
-    "2 - Tags/Atomic Habits.md",
-    "4 - Full Notes/Sheffield Places.md",
     "Sheffield Plans 1/11",
     "Sheffield Plans 1",
     "4 - Full Notes",
