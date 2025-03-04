@@ -12,10 +12,39 @@ Forget about goal following and focus on creating a system around the goal. This
 
 ## High Level
 **Outcomes**: The result and what you achieve at the end of the process
+**Process:** The way about which you setout daily to achieve goals and work towards something
+**Identity**: The way you persieve yourself and how you act. When something you want in life is a part of your identity it isn't a chore it is a part of you. 
 
+### Habit Loop
+Cue, Craving, Response, Reward
 
+## LAW 1: Make it Obvious
+have habits as visible in your mind, we want to understand what we have going on in our life. 
+Use Habit Scorecards to make it obvious the current habits you have in your life. 
+Use Specific intentions that don't allow you to get away with not doing something: 
+	"I will {Behaviour} at {time} in {this Location}"
+Stacking Habits is a good way to ensure habits stick
+Design you environment around you such as making good habits more obvious and bad less obvious
 
+## LAW 2: Make it attractive
+this links to dopamine heavily and we need to ensure we make things attractive or less attractive.
+You can utilise Temptation bundling to make sure that you achieve something with a reward. 
+The people we are around alter what we do massively so to build a good habit is to find the people that will do this with you. 
+Highlight the benefits of a good habit rather then the bad this makes it more attractive. Vice versa for bad habits
 
+## LAW 3: Make it Easy
+Habits take repetitions to stick so rather then days look at repetition
+Reduce the friction to allow a habit to stick Prime your environment for the habit to stick
+Use the 2 minute rule by finding the 2 minute version of a habit.
+Only aim to achieve this 2 minutes of the habit 
+Reward yourself for the small things and count how well you do. 
+This makes it visual and rewarding
+
+## The System
+
+| CUE |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
 
 
 
