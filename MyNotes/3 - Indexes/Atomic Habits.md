@@ -69,6 +69,14 @@ agile development
 modern graphical concepts for cockpits
 Looking to get up to speed to contribute
 ADA syntax
+C
+C++
+Rust
+visitor left of main gate
+security direct you
+reception: looking for michael or kieran for half 8 and nine
+getting in touch once IT established and details confirmed
+
 
 | CUE |     |     |     |
 | --- | --- | --- | --- |
