@@ -42,6 +42,34 @@ This makes it visual and rewarding
 
 ## The System
 
+kieran huxstep
+starting new aircraft program
+a part of that
+processes to follow and deliver
+no team lead yet
+michael as line manager
+2-3 days a week on site innitially
+team of system engineers
+warton for softwaare leadership
+big growth
+not fully direct support
+cockpit and displays
+HMI
+6th gen
+slightly different to what we would see in other cockpits
+look at news in BAE website
+Tony as software leads in warton 
+Tuesday: arrange what to do when we get back 
+starting with other person
+LEWIS?
+Software pipelines
+how to:
+dev sec ops
+agile development
+modern graphical concepts for cockpits
+Looking to get up to speed to contribute
+ADA syntax
+
 | CUE |     |     |     |
 | --- | --- | --- | --- |
 |     |     |     |     |
